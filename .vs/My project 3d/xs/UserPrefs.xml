@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{9329421C-AA6D-2BF6-6EDD-EF4C292B03E0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/RemoveUnderwaterTreesEditor.cs">
+    <Files>
+      <File FileName="Assets/scripts/RemoveUnderwaterTrees.cs" Line="28" Column="2" />
+      <File FileName="Assets/scripts/RemoveUnderwaterTreesEditor.cs" Line="19" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="My project 3d" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="RemoveUnderwaterTreesEditor.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a4a407e4-d3a4-4708-95ac-53d4fa6bc6e0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
